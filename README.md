@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a software engineer with 13 years of experience and a game dev hobbyist.
+
+- 🔭 I’m currently working on web/mobile apps using AI and web3, building amazing products to increase human agency at [AE Studio](https://ae.studio/)
+- 🌱 I’m currently learning game development and VR
+- 👯 I’m looking to collaborate on game development and open-source projects
+- 🤔 I’m looking for help with Unity Engine and the library [React Native Health](https://github.com/agencyenterprise/react-native-health)
+- 💬 Ask me about web & game development
+- 😄 Pronouns: He/Him
+-->
+
 <!--
 **RuanAzevedo/RuanAzevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
