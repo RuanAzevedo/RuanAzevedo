@@ -2,6 +2,7 @@
 
 I'm a software engineer with 13 years of experience and a game dev hobbyist.
 
+- 🔭 I’m currently working on my first mobile game
 - 🔭 I’m currently working on web/mobile apps using AI and web3, building amazing products to increase human agency at [AE Studio](https://ae.studio/)
 - 🌱 I’m currently learning game development focused on mobile and VR
 - 👯 I’m looking to collaborate on game development and open-source projects
