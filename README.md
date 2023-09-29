@@ -2,11 +2,10 @@
 
 I'm a software engineer with 13 years of experience and a game dev hobbyist.
 
-- 🔭 I’m currently working on my first mobile game
 - 🔭 I’m currently working on web/mobile apps using AI and web3, building amazing products to increase human agency at [AE Studio](https://ae.studio/)
-- 🌱 I’m currently learning game development focused on mobile and VR
-- 👯 I’m looking to collaborate on game development and open-source projects
-- 💬 Ask me about web/game development, boardgames, cardgames, heavy metal and beer 🍺
+- 🌱 I’m currently learning game development and VR, trying Unreal (after the Unity chaos) and VisionOS
+- 👯 I’m looking to collaborate on game dev and open-source projects
+- 💬 Ask me about web/game dev, boardgames, cardgames, heavy metal and beer 🍺
 - 😄 Pronouns: He/Him
 
 <!--
