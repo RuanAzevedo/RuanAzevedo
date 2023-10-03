@@ -3,9 +3,10 @@
 I'm a software engineer with 13 years of experience and a game dev hobbyist.
 
 - 🔭 I’m currently working on web/mobile apps using AI and web3, building amazing products to increase human agency at [AE Studio](https://ae.studio/)
-- 🌱 I’m currently learning game development and VR, trying Unreal (after the Unity chaos) and VisionOS
-- 👯 I’m looking to collaborate on game dev and open-source projects
-- 💬 Ask me about web/game dev, boardgames, cardgames, heavy metal and beer 🍺
+- 🏗️ I'm currently working on my first mobile game with Unity
+- 🤓 I’m currently experimenting with 3D tools and XR, building stuff with Unity, Unreal, the new Apple APIs/RealityKit and VisionOS in my spare time
+- 👯 I’m looking to collaborate on creative projects
+- 💬 Ask me about game/web dev, tech, boardgames, cardgames, heavy metal, and beer 🍺
 - 😄 Pronouns: He/Him
 
 <!--
