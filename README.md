@@ -3,7 +3,7 @@
 I'm a software engineer with 13 years of experience and a game dev hobbyist.
 
 - 🔭 I’m currently working on web/mobile apps using AI and web3, building amazing products to increase human agency at [AE Studio](https://ae.studio/)
-- 🤓 I’m currently playing with VR/XR and blockchain in my spare time
+- 🤓 I’m currently playing with VR/XR/mobile dev in my spare time
 - 👯 I’m looking to collaborate on creative projects
 - 💬 Ask me about tech, boardgames, cardgames, heavy metal, and beer 🍺
 - 😄 Pronouns: He/Him
